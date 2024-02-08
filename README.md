@@ -92,7 +92,7 @@ The training process involves iterative adjustments to the neural network's para
 Overall, the training process of the neural network involves repeatedly feeding the training data through the network, updating its parameters based on the observed errors, and gradually improving its ability to make accurate predictions of stock prices.
 
 <p align="center">
-    <img src="">
+    <img src="https://github.com/Neill-Erasmus/stock-price-prediction/assets/141222943/f2b0a56d-0679-4832-a660-0e5ab6f92d62">
 </p>
 
 ### Overfitting
